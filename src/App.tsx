@@ -1,8 +1,9 @@
 import './App.css'
+import Feedback from './pages/feedback/Feedback'
 
 function App() {
   return (
-    <div className='text-9xl'>Hello World</div>
+    <Feedback/>
   )
 }
 
